@@ -1,0 +1,13 @@
+{
+    "mainApiUrl":"https://wallet-api.token.soy",
+    "apiUrls":[
+        {
+            "apiUrl":"https://wallet-api.token.soy",
+            "location":"HK"
+        },
+        {
+            "apiUrl":"wallet-api.cn.cd.wrbug.com",
+            "location":"CN-CD"
+        }
+    ]
+}
