@@ -1,5 +1,5 @@
 {
-    "mainApiUrl":"HK",
+    "mainApiUrl":"CN_cd",
     "locations":["HK","CN_cd"],
     "apiUrls":{
         "HK":{
