@@ -1,13 +1,18 @@
 {
-    "mainApiUrl":"https://wallet-api.token.soy",
-    "apiUrls":[
-        {
+    "mainApiUrl":"HK",
+    "locations":["HK","CN_cd"],
+    "apiUrls":{
+        "HK":{
+            "id":1,
             "apiUrl":"https://wallet-api.token.soy",
-            "location":"HK"
+            "location":"HK",
+            "desc":"香港节点"
         },
-        {
+        "CN_cd":{
+            "id":2,
             "apiUrl":"https://wallet-api.cn.cd.wrbug.com",
-            "location":"CN_cd"
+            "location":"CN_cd",
+            "desc":"成都节点"
         }
-    ]
+    }
 }
