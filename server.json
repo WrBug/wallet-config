@@ -6,7 +6,7 @@
             "location":"HK"
         },
         {
-            "apiUrl":"wallet-api.cn.cd.wrbug.com",
+            "apiUrl":"https://wallet-api.cn.cd.wrbug.com",
             "location":"CN-CD"
         }
     ]
